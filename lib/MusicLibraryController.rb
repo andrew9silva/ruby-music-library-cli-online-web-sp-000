@@ -35,7 +35,6 @@ class MusicLibraryController
          when "play song"
            play_song
          end
-       end
     end
   end
 
